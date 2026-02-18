@@ -780,8 +780,8 @@ if (!is_logged_in()) {
                 
                 <!-- Character Row -->
                 <div class="character-row">
-                    <img src="https://res.cloudinary.com/diajtnvji/image/upload/v1769527160/photo_2025-08-19_08-35-15.jpg" alt="Space" class="character">
-                    <img src="https://res.cloudinary.com/dil0dlflt/image/upload/v1771312485/magic-doraemon-doraemon_fjxysz.gif" alt="Doraemon Magic" class="character">
+                    <img src="https://res.cloudinary.com/dil0dlflt/image/upload/v1771410150/favicon-01_itnru3.png" alt="Space" class="character">
+                    <img src="https://res.cloudinary.com/dil0dlflt/image/upload/v1771410074/background_in04tl.gif" alt="Team H21 Magic" class="character">
                     <img src="https://res.cloudinary.com/dil0dlflt/image/upload/v1771314159/cat_v8cfnn.jpg" alt="Cat" class="character">
                 </div>
                 
@@ -915,4 +915,5 @@ if (!is_logged_in()) {
     <?php
     exit();
 }
+
 ?>
